@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Geethapriya-Dineshkumar
 - 👀 I’m interested in learning new technology 
 - 🌱 I’m currently learning python, datascience 
-- 💞️ I’m looking to collaborate on like minds who are willings to share knowledge with me 
+- 💞️ I’m looking to collaborate with like minds who are willings to share knowledge with me 
 - 📫 How to reach me : geethapriya.p2009@gmail.com
 
 <!---
